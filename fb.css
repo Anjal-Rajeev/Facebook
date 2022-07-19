@@ -1,0 +1,191 @@
+body{
+    margin-top:0px;
+}
+.header{
+    width: 100%;
+    height: 130px;
+    background:#3b5998;
+    
+}
+.logo{
+    width:50%;
+    padding-top:45px;
+    float:left;    
+}
+
+.login{
+    width:50%;
+    float:left;
+    padding-top:45px;
+}
+
+.fb{
+    color:white;
+    font-size:60px;
+    font-weight:bold;
+    text-decoration:none;
+    margin-left:50px;
+}  
+.login-label{
+    color: white;
+}
+.login-control{
+   
+}
+.forgotten{
+    color:#80acff;
+    text-decoration:none;
+}
+.sub-btn{
+    color: white;
+    background:#4063ff;
+    border-color:#2b43ff;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background:#170063;
+}
+
+.left-part{
+    width: 50%;
+    float:left;
+    padding-left:50px;
+    padding-top:20px
+    
+}
+.right-part{
+    width: 43%;
+    float:left;
+}
+.body{
+    width:100%;
+    height:430px;
+    background:linear-gradient(white,#d3d8e8);
+}
+.para{
+    font-weight:bold;
+    font-size:15px;
+    color:#0f0b8a;
+}
+.img{
+    width:400px;
+    
+}
+.heading{
+    font-weight:bold;
+    margin-bottom:5px;
+}
+.sub-heading{
+    font-size:20px;
+    margin-top:0px;
+    
+}
+.placeholder {
+    border:solid 0.5px;
+    border-color:gray;
+    width:190px;
+    border-radius:2px;
+}
+.placeholder::placeholder{
+    font:11px sans-serif;
+    padding:3px;
+}
+.mob-pass{
+    border:solid 0.5px;
+    border-color:gray;
+    width:389px;
+    margin-top:7px;
+    border-radius:2px;
+    
+    
+}
+.mob-pass::placeholder{
+    font:11px sans-serif;
+    padding:3px;
+}
+.mob-password{   
+
+}
+.birthday{
+  margin-top:10px;
+  
+    
+}
+.bday{
+    color:#677a91;
+    font-size:11px;
+    magrin-bottom:0px;
+    padding-bottom:0px;
+    font-weight:bold;
+    
+}
+.dob{
+    font-size:10px;
+    width: 70px;
+    height:20px;
+    
+    
+}
+.qstn{
+    color:#fff; 
+    background-color:#232a46; 
+    width:12px; 
+    height:12px;
+    display:inline-block;
+    border-radius:100%;
+    font-size:10px;
+    text-align:center;
+}
+.gender{
+    margin:0px;
+    padding-top:0px;
+}
+.radio{
+    align:center;
+    width:10px;
+    height: 10px;
+    padding-right:0px;
+}
+.gender-name{
+    font-weight:bold;
+    margin-left:0px;
+}
+.gender-div{
+    margin-right:15px;
+    float:left;
+}
+.gender-qstn{
+    margin-top:0px;
+    padding-top:0px;
+}
+.content{
+    text-decoration:none;
+}
+.p{
+    color:gray;
+    font-size:10px;
+}
+.a{
+    text-decoration:none;
+    color:#3b5998;
+}
+.signup{
+    
+}
+.signup-button{
+    background:#0d9f30;
+    color: white;
+    width:170px;
+    border-radius:3px;
+    border:solid green;
+    font-weight:bold;
+    
+}
+.create-page-div{
+    
+}
+.create-page{
+    font-weight:bold;
+    font-size:12px;
+    
+}
